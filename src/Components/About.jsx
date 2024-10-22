@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import '../Components/styles/About.css'
+import './styles/About.css'
 
 function About() {
   return (

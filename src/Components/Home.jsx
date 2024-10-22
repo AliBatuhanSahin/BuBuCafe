@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import '../Components/styles/home.css'
+import './styles/Home.css'
 import { Link } from "react-router-dom";
 
 function Home() {

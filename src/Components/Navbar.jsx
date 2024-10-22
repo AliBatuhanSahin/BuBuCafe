@@ -1,5 +1,5 @@
 
-import '../Components/styles/Navbar.css'
+import './styles/Navbar.css'
 import BubuLogo from '/assets/logo.png'
 import { Link } from 'react-router-dom'
 

@@ -1,5 +1,5 @@
 import BannerImage from "/assets/logo.png";
-import "../Components/styles/contact.css"
+import "./styles/contact.css"
 
 const Contact = () => {
   return (
