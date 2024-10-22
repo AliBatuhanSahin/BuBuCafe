@@ -1,13 +1,15 @@
 
 
 export const Data = [
-    {
+      {
         name: "Americano",
         image: "assets/americano.jpg",
         content: "Kahve ve sıcak su",
         price: 85,
         category: "coffe"
       },
+      
+      
       {
         name: "Black Eye",
         image: "assets/blackeye.jpg",

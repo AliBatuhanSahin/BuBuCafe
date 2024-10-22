@@ -2,7 +2,7 @@
 import './App.css'
 import Footer from './Components/Footer'
 import Home from './Components/Home'
-import Navbar from './Components/Navbar'
+import NavBar from './Components/Navbar'
 import Menu from './Components/Menu'
 import About from './Components/About'
 import Contact from './Components/Contact'
@@ -12,7 +12,7 @@ function App() {
 
   return <div className='App'>
     
-      <Navbar/>
+      <NavBar/>
       <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/menu' element={<Menu />}/>

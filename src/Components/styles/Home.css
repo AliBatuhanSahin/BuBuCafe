@@ -14,7 +14,8 @@
   }
   
   .homeBottom p {
-    width: 1200px;
+    width: auto;
+    max-width: 90%;
     color: white;
   }
   
