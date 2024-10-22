@@ -8,6 +8,14 @@ export const Data = [
         price: 85,
         category: "coffe"
       },
+
+      {
+        name: "Espresso",
+        image: "assets/espresso.jpg",
+        content: "Espresso, koyu kavrulmuş bir kahve türüdür.",
+        price: 75,
+        category: "coffe"
+      },
       
       
       {
