@@ -5,7 +5,7 @@ import { Navbar, Nav, Container } from 'react-bootstrap';
 
 function NavBar() {
   return (
-    <Navbar bg="transparent" expand="lg" variant="dark">
+    <Navbar  expand="lg" variant="dark">
       <Container>
         <Link to="/">
           <Navbar.Brand>
